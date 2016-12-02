@@ -24,6 +24,10 @@
   min-height: 200px;
 }
 
+.min-height-108{
+  min-height: 108px;
+}
+
 .is-compact .portfolio-logo-row {
   min-height: auto;
 }
@@ -31,8 +35,8 @@
 .portfolio-logo {
   background: url(images/logo.png) 50% no-repeat;
   background-size: cover;
-  height: 150px;
-  width: 150px;
+  height: 120px;
+  width: 120px;
   margin: auto auto 10px;
 }
 
